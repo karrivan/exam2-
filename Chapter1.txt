@@ -1,0 +1,67 @@
+Introduction
+
+In this generation the most played genre of video game is “ action-adventure game “. Action-
+adventure game is a hybrid genre, a mixed element from an action game and an adventure game,
+especially crucial elements like puzzles. Action-adventure require many of the same physical skills action
+games, but also offer a storyline, numerous characters, an inventory system, dialogue, and other
+features of adventure games. Action-adventure games normally include a combination of complex story
+elements, which are displayed for players using audio and video. The story is heavily reliant upon the
+player character’s movement, which triggers story events and thus affects the flow of the game. Some
+examples of action-adventure games include The Legend of Zelda, God of War, and Tomb Raider series.
+
+Medical games. In most of the games of this genre, the main goal is similar: to treat and cure the
+patient as possible, whether it’s a cancer or something much more devastating. The most common
+medical games are surgery simulators, and the environment is inside of the hospital. Also medical games
+can give you some knowledge about medicals and give awareness and prevention to the users. Medical-
+based games are quickly becoming favorites by medical students as their practicing of their field while
+enjoying. Some examples of medical games include Amateur Surgeon, Two Point Hospital and Lifesigns:
+Surgical Unit.
+
+Internal Crisis is an action-adventure game that mixed-up by a medical game genre. Therefore,
+you can experience an action and adventure feelings while you’re gaining some knowledge. There’s a
+medical drug that have been invented by a mad scientist and that’s the character. The character can
+explore to your organ, fight with the cancer cells, viruses, bacteria, help an infected cell, clean or
+regenerate a damage part of the organ, and can fight alongside with the fighter and support cell. This
+game has a mission or a task in order to unlock new stages and weapons. Also the character will give tips
+to the users about awareness and prevention.
+
+Related works
+Hollow Knight is a Metroidvania game action adventure 2D perspective and hack and
+slash game .
+The game tells the story of a bug Knight on a quest to uncover the secrets of the long-
+abandoned insect kingdom of Hallownest, whose haunting depths draw in the
+adventurous and brave with promises of treasures and answers to ancient mysteries.
+The bug knight needs to find and fight bosses to progress through the game, many
+bosses do so by granting the player new abilities so they can access areas which were
+unavailable to them before.
+A sequel to the game, Hollow Knight: Silksong, is currently in development and is set to
+be released on Microsoft Windows, Mac, Linux, and Nintendo Switch, with Team Cherry
+stating that &quot;more platforms may happen in the future.&quot; Team Cherry had previously
+planned this game as a piece of downloadable content. Kickstarter backers of Hollow
+Knight will also receive  Silksong  for free when it is released. [1]
+
+Major mayhem is a 2.5
+Arcade cover shooter inspired by Time Crisis, Metal Slug and 80&#39;s action heros! He&#39;s
+got an itchy trigger finger, some scratchy stubble, and a fondness for shooting dudes in
+the face. Run and gun your way through gorgeous 3D environments as you embark on
+a mission to rescue your kidnapped girlfriend from the Forces of Evil. Guns, grenades
+and an assortment of other tools of destruction are at your disposal, and you&#39;ll need
+every last one of &#39;em. So what are you waiting for, Major Mayhem? The future of the
+Free World -- and your love life -- hangs in the balance. [2]
+
+project objective
+this study is a 2.5d game environment that give the player a knowledge about
+the certain disease and help them educate while playing
+
+scope and limitations
+
+This study is about an organs that have diseases which compose of lungs , kidney,
+and heart
+Three stages will be made available to the player, stage one will the lungs that have 3 stages
+stage two will be the kidney that have 3 stages as well stage 3 will be the heart that have 2
+stages these stages can be accessed by player after solving the quest and killing the
+monsters and bosses the player have three weapon sets ,inoculation, hoover, mayo scissors
+a doctor will be prompt and will guide the player throughout the game, and will
+also grant tips for the player
+The player will control the character by using the keyboard and mouse to move and to attack
+respectively. The game only supports Desktop Windows OS.
